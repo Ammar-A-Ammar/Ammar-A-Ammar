@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 <!-- [![trophy](https://github-profile-trophy.vercel.app/?username=ryo-ma)](https://github.com/ryo-ma/github-profile-trophy)  -->
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Ammar000x&label=Profile%20views&color=0e75b6&style=flat" alt="Ammar000x" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ammar000x&theme=onedark" alt="Ammar-A-Ammar" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Ammar-A-Ammar&theme=onedark" alt="Ammar-A-Ammar" /></a> </p>
 
 - 🔭 I’m currently working on **Flutter Dart**
 
