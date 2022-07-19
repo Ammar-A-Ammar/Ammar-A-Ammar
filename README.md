@@ -16,6 +16,7 @@
 - 📫 How to reach me **ammar.abdelnabi00@eng-st.cu.edu.eg**
 
 #### Connect with me on :
+<br>
 <a target="_blank" href="https://www.linkedin.com/in/ammar-a-ammar/"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=Linkedin&logoColor=white"></img></a>
 &emsp;
 <a target="_blank" href="mailto:ammar.abdelnabi00@eng-st.cu.edu.eg">
@@ -24,6 +25,8 @@
 <a target="_blank" href="https://leetcode.com/AmmarAmmar/"><img src="https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=LeetCode&logoColor=#d16c06"></img></a>
 &emsp;
 <a target="_blank" href="https://www.hackerrank.com/Ammar_Ammar"><img src="https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white"></img></a>
+&emsp;
+<a target="_blank" href="https://app.pluralsight.com/profile/Ammar-A-Ammar"><img src="https://img.shields.io/badge/Pluralsight-F15B2A?style=for-the-badge&logo=Pluralsight&logoColor=white"></img></a>
 &emsp;
 <br><br>
 
