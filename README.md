@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning **Signal processing**
 
-- 👯 I’m looking to collaborate on **open source projects and Interships**, and here is my [resume](https://drive.google.com/file/d/1GLsw69YRwxmlEmvYzlNzk9S7i1WDx140/view?usp=sharing)
+- 👯 I’m looking to collaborate on **open source projects and Internships**, and here is my [resume](https://drive.google.com/file/d/1KeD1RsSh_B_zXyuVXdRL9S-2BiEmgAlS/view?usp=sharing)
 
 - 💬 Ask me about **Flutter and python**
 
