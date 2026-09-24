@@ -5,13 +5,13 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Ammar-A-Ammar&theme=onedark" alt="Ammar-A-Ammar" /></a> </p>
 
-- 🔭 I’m currently working on **Flutter Dart**
+- 🔭 I’m currently working on **Machine Learning**
 
-- 🌱 I’m currently learning **Signal processing**
+- 🌱 I’m currently learning **Data Science**
 
 - 👯 I’m looking to collaborate on **open source projects and Internships**, and here is my [resume](https://drive.google.com/file/d/1KeD1RsSh_B_zXyuVXdRL9S-2BiEmgAlS/view?usp=sharing)
 
-- 💬 Ask me about **Flutter and python**
+- 💬 Ask me about **Mavhine Learning, Flutter and python**
 
 - 📫 How to reach me **ammar.abdelnabi00@eng-st.cu.edu.eg**
 
